@@ -1,0 +1,17 @@
+﻿Build started 9/4/2015 10:52:17 AM.
+     1>Project "D:\melp_e1200\jawad_dual\melp_e1200_dual_03-09-2015\melp_e1200_dual_Tx\melp_e1200\melp_e1200.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\melp_e1200.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         melp_e1200.vcxproj -> D:\melp_e1200\jawad_dual\melp_e1200_dual_03-09-2015\melp_e1200_dual_Tx\Debug\melp_e1200.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\melp_e1200.unsuccessfulbuild".
+         Touching "Debug\melp_e1200.lastbuildstate".
+     1>Done Building Project "D:\melp_e1200\jawad_dual\melp_e1200_dual_03-09-2015\melp_e1200_dual_Tx\melp_e1200\melp_e1200.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13
